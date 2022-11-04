@@ -1,4 +1,4 @@
-# ADV360-PRO-ZMK
+# ADV360-PRO-ZMK - custom build for tjajt
 
 ## To build Firmware in GitHub Actions
 
